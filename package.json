@@ -1,0 +1,19 @@
+{
+  "name": "createelem",
+  "version": "1.0.0",
+  "description": "A simple DOM manipulation tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sho88/createElem.git"
+  },
+  "author": "sho88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sho88/createElem/issues"
+  },
+  "homepage": "https://github.com/sho88/createElem#readme"
+}
