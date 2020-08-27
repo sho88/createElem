@@ -47,4 +47,4 @@ var CreateElem = function() {
 	return { append, create, exists, empty };
 }();
 
-module.exports.CreateElem = CreateElem;
+module.exports = CreateElem;
