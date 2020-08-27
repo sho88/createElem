@@ -4,11 +4,11 @@
 
 ### What is this?
 
-A set of simple DOM manipulation functions, and that's it. 2kb in size, and pretty useful for quick prototyping.
+A set of simple DOM manipulation functions, and that's it.
 
 ***
 ### Install via NPM
-`npm i create-elem`
+`npm i sho88-createelem`
 
 ***
 
